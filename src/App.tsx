@@ -14,7 +14,9 @@ import { theme } from './theme/theme';
 /** Renders the screen for the current phase. */
 function Router() {
   const { state } = useGame();
-  useEffect(() => window.scrollTo({ top: 0 }), [state.phase]);
+  useEffect(() => {
+    window.scrollTo({ top: 0 });
+  }, [state.phase]);
   return (
     <>
       {state.phase !== 'home' && <AppHeader />}
