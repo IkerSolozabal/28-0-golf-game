@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "seve-1980s",
+    "nombre": "Seve Ballesteros",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 1980,
+    "majors": 5,
+    "majorsGanados": [
+      "Masters",
+      "The Open"
+    ],
+    "victorias": 90,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "20-12-5",
+    "driver": 80,
+    "hierros": 88,
+    "juegoCorto": 99,
+    "putt": 90,
+    "parejasHistoricas": [
+      "olazabal-1990s"
+    ]
+  },
+  {
+    "id": "olazabal-1990s",
+    "nombre": "José María Olazábal",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 1990,
+    "majors": 2,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 31,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "18-8-5",
+    "driver": 72,
+    "hierros": 88,
+    "juegoCorto": 95,
+    "putt": 85,
+    "parejasHistoricas": [
+      "seve-1980s"
+    ]
+  },
+  {
+    "id": "pinero-1980s",
+    "nombre": "Manuel Piñero",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 1980,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 26,
+    "mejorRankingMundial": null,
+    "recordEquipos": "6-3-0",
+    "driver": 74,
+    "hierros": 82,
+    "juegoCorto": 86,
+    "putt": 84,
+    "parejasHistoricas": [
+      "canizares-1980s"
+    ]
+  },
+  {
+    "id": "canizares-1980s",
+    "nombre": "José María Cañizares",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 1980,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 18,
+    "mejorRankingMundial": null,
+    "recordEquipos": "5-4-2",
+    "driver": 72,
+    "hierros": 84,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "pinero-1980s"
+    ]
+  },
+  {
+    "id": "jimenez-2000s",
+    "nombre": "Miguel Ángel Jiménez",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 2000,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 29,
+    "mejorRankingMundial": 8,
+    "recordEquipos": "4-8-3",
+    "driver": 76,
+    "hierros": 86,
+    "juegoCorto": 90,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "garcia-2000s",
+    "nombre": "Sergio García",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 2000,
+    "majors": 1,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 36,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "25-13-7",
+    "driver": 88,
+    "hierros": 93,
+    "juegoCorto": 82,
+    "putt": 74,
+    "parejasHistoricas": [
+      "donald-2010s",
+      "westwood-2000s",
+      "rahm-2020s"
+    ]
+  },
+  {
+    "id": "rahm-2020s",
+    "nombre": "Jon Rahm",
+    "bando": "EU",
+    "pais": "España",
+    "decada": 2020,
+    "majors": 2,
+    "majorsGanados": [
+      "US Open",
+      "Masters"
+    ],
+    "victorias": 22,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "9-6-4",
+    "driver": 92,
+    "hierros": 94,
+    "juegoCorto": 88,
+    "putt": 84,
+    "parejasHistoricas": [
+      "garcia-2000s"
+    ]
+  },
+  {
+    "id": "faldo-1990s",
+    "nombre": "Nick Faldo",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 1990,
+    "majors": 6,
+    "majorsGanados": [
+      "The Open",
+      "Masters"
+    ],
+    "victorias": 41,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "23-19-4",
+    "driver": 82,
+    "hierros": 96,
+    "juegoCorto": 88,
+    "putt": 86,
+    "parejasHistoricas": [
+      "woosnam-1990s"
+    ]
+  },
+  {
+    "id": "jacklin-1970s",
+    "nombre": "Tony Jacklin",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 1970,
+    "majors": 2,
+    "majorsGanados": [
+      "The Open",
+      "US Open"
+    ],
+    "victorias": 29,
+    "mejorRankingMundial": null,
+    "recordEquipos": "13-14-8",
+    "driver": 80,
+    "hierros": 84,
+    "juegoCorto": 82,
+    "putt": 82,
+    "parejasHistoricas": [
+      "oosterhuis-1970s"
+    ]
+  },
+  {
+    "id": "oosterhuis-1970s",
+    "nombre": "Peter Oosterhuis",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 1970,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 20,
+    "mejorRankingMundial": null,
+    "recordEquipos": "14-11-3",
+    "driver": 78,
+    "hierros": 80,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "jacklin-1970s"
+    ]
+  },
+  {
+    "id": "westwood-2000s",
+    "nombre": "Lee Westwood",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2000,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 44,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "24-19-4",
+    "driver": 88,
+    "hierros": 90,
+    "juegoCorto": 78,
+    "putt": 76,
+    "parejasHistoricas": [
+      "garcia-2000s",
+      "clarke-2000s"
+    ]
+  },
+  {
+    "id": "donald-2010s",
+    "nombre": "Luke Donald",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2010,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 17,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "10-4-1",
+    "driver": 72,
+    "hierros": 86,
+    "juegoCorto": 94,
+    "putt": 92,
+    "parejasHistoricas": [
+      "garcia-2000s"
+    ]
+  },
+  {
+    "id": "poulter-2010s",
+    "nombre": "Ian Poulter",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2010,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 17,
+    "mejorRankingMundial": 5,
+    "recordEquipos": "15-8-2",
+    "driver": 74,
+    "hierros": 82,
+    "juegoCorto": 86,
+    "putt": 93,
+    "parejasHistoricas": [
+      "mcilroy-2010s"
+    ]
+  },
+  {
+    "id": "rose-2010s",
+    "nombre": "Justin Rose",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 25,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "16-11-3",
+    "driver": 84,
+    "hierros": 90,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "stenson-2010s"
+    ]
+  },
+  {
+    "id": "fleetwood-2020s",
+    "nombre": "Tommy Fleetwood",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2020,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 10,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "12-4-2",
+    "driver": 84,
+    "hierros": 91,
+    "juegoCorto": 84,
+    "putt": 84,
+    "parejasHistoricas": [
+      "molinari-2010s"
+    ]
+  },
+  {
+    "id": "casey-2000s",
+    "nombre": "Paul Casey",
+    "bando": "EU",
+    "pais": "Inglaterra",
+    "decada": 2000,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 21,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "6-6-5",
+    "driver": 84,
+    "hierros": 88,
+    "juegoCorto": 80,
+    "putt": 80,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "lyle-1980s",
+    "nombre": "Sandy Lyle",
+    "bando": "EU",
+    "pais": "Escocia",
+    "decada": 1980,
+    "majors": 2,
+    "majorsGanados": [
+      "The Open",
+      "Masters"
+    ],
+    "victorias": 30,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "7-9-2",
+    "driver": 86,
+    "hierros": 84,
+    "juegoCorto": 82,
+    "putt": 80,
+    "parejasHistoricas": [
+      "langer-1980s"
+    ]
+  },
+  {
+    "id": "montgomerie-1990s",
+    "nombre": "Colin Montgomerie",
+    "bando": "EU",
+    "pais": "Escocia",
+    "decada": 1990,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 53,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "20-9-7",
+    "driver": 84,
+    "hierros": 90,
+    "juegoCorto": 82,
+    "putt": 84,
+    "parejasHistoricas": [
+      "langer-1980s"
+    ]
+  },
+  {
+    "id": "woosnam-1990s",
+    "nombre": "Ian Woosnam",
+    "bando": "EU",
+    "pais": "Gales",
+    "decada": 1990,
+    "majors": 1,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 52,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "14-12-5",
+    "driver": 85,
+    "hierros": 88,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "faldo-1990s"
+    ]
+  },
+  {
+    "id": "langer-1980s",
+    "nombre": "Bernhard Langer",
+    "bando": "EU",
+    "pais": "Alemania",
+    "decada": 1980,
+    "majors": 2,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 62,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "21-15-6",
+    "driver": 74,
+    "hierros": 90,
+    "juegoCorto": 88,
+    "putt": 82,
+    "parejasHistoricas": [
+      "montgomerie-1990s",
+      "lyle-1980s"
+    ]
+  },
+  {
+    "id": "kaymer-2010s",
+    "nombre": "Martin Kaymer",
+    "bando": "EU",
+    "pais": "Alemania",
+    "decada": 2010,
+    "majors": 2,
+    "majorsGanados": [
+      "PGA Championship",
+      "US Open"
+    ],
+    "victorias": 23,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "6-5-4",
+    "driver": 84,
+    "hierros": 86,
+    "juegoCorto": 78,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "harrington-2000s",
+    "nombre": "Pádraig Harrington",
+    "bando": "EU",
+    "pais": "Irlanda",
+    "decada": 2000,
+    "majors": 3,
+    "majorsGanados": [
+      "The Open",
+      "PGA Championship"
+    ],
+    "victorias": 32,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "9-13-3",
+    "driver": 80,
+    "hierros": 86,
+    "juegoCorto": 92,
+    "putt": 86,
+    "parejasHistoricas": [
+      "mcdowell-2010s"
+    ]
+  },
+  {
+    "id": "lowry-2020s",
+    "nombre": "Shane Lowry",
+    "bando": "EU",
+    "pais": "Irlanda",
+    "decada": 2020,
+    "majors": 1,
+    "majorsGanados": [
+      "The Open"
+    ],
+    "victorias": 7,
+    "mejorRankingMundial": 15,
+    "recordEquipos": "4-4-3",
+    "driver": 78,
+    "hierros": 86,
+    "juegoCorto": 92,
+    "putt": 82,
+    "parejasHistoricas": [
+      "mcilroy-2010s"
+    ]
+  },
+  {
+    "id": "clarke-2000s",
+    "nombre": "Darren Clarke",
+    "bando": "EU",
+    "pais": "Irlanda del Norte",
+    "decada": 2000,
+    "majors": 1,
+    "majorsGanados": [
+      "The Open"
+    ],
+    "victorias": 22,
+    "mejorRankingMundial": 8,
+    "recordEquipos": "10-7-3",
+    "driver": 84,
+    "hierros": 82,
+    "juegoCorto": 80,
+    "putt": 80,
+    "parejasHistoricas": [
+      "westwood-2000s"
+    ]
+  },
+  {
+    "id": "mcdowell-2010s",
+    "nombre": "Graeme McDowell",
+    "bando": "EU",
+    "pais": "Irlanda del Norte",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 15,
+    "mejorRankingMundial": 4,
+    "recordEquipos": "7-5-3",
+    "driver": 76,
+    "hierros": 86,
+    "juegoCorto": 84,
+    "putt": 86,
+    "parejasHistoricas": [
+      "mcilroy-2010s",
+      "harrington-2000s"
+    ]
+  },
+  {
+    "id": "mcilroy-2010s",
+    "nombre": "Rory McIlroy",
+    "bando": "EU",
+    "pais": "Irlanda del Norte",
+    "decada": 2010,
+    "majors": 5,
+    "majorsGanados": [
+      "US Open",
+      "PGA Championship",
+      "The Open",
+      "Masters"
+    ],
+    "victorias": 44,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "17-15-4",
+    "driver": 97,
+    "hierros": 92,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "mcdowell-2010s",
+      "poulter-2010s",
+      "lowry-2020s"
+    ]
+  },
+  {
+    "id": "stenson-2010s",
+    "nombre": "Henrik Stenson",
+    "bando": "EU",
+    "pais": "Suecia",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "The Open"
+    ],
+    "victorias": 24,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "11-7-3",
+    "driver": 86,
+    "hierros": 95,
+    "juegoCorto": 78,
+    "putt": 80,
+    "parejasHistoricas": [
+      "rose-2010s"
+    ]
+  },
+  {
+    "id": "parnevik-1990s",
+    "nombre": "Jesper Parnevik",
+    "bando": "EU",
+    "pais": "Suecia",
+    "decada": 1990,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 13,
+    "mejorRankingMundial": 9,
+    "recordEquipos": "4-3-4",
+    "driver": 80,
+    "hierros": 84,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "aberg-2020s",
+    "nombre": "Ludvig Åberg",
+    "bando": "EU",
+    "pais": "Suecia",
+    "decada": 2020,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 4,
+    "mejorRankingMundial": 4,
+    "recordEquipos": "4-4-0",
+    "driver": 92,
+    "hierros": 90,
+    "juegoCorto": 80,
+    "putt": 78,
+    "parejasHistoricas": [
+      "hovland-2020s"
+    ]
+  },
+  {
+    "id": "hovland-2020s",
+    "nombre": "Viktor Hovland",
+    "bando": "EU",
+    "pais": "Noruega",
+    "decada": 2020,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 12,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "7-6-4",
+    "driver": 88,
+    "hierros": 92,
+    "juegoCorto": 72,
+    "putt": 80,
+    "parejasHistoricas": [
+      "aberg-2020s"
+    ]
+  },
+  {
+    "id": "molinari-2010s",
+    "nombre": "Francesco Molinari",
+    "bando": "EU",
+    "pais": "Italia",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "The Open"
+    ],
+    "victorias": 9,
+    "mejorRankingMundial": 5,
+    "recordEquipos": "8-6-3",
+    "driver": 78,
+    "hierros": 92,
+    "juegoCorto": 84,
+    "putt": 80,
+    "parejasHistoricas": [
+      "fleetwood-2020s"
+    ]
+  },
+  {
+    "id": "bjorn-2000s",
+    "nombre": "Thomas Bjørn",
+    "bando": "EU",
+    "pais": "Dinamarca",
+    "decada": 2000,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 15,
+    "mejorRankingMundial": 10,
+    "recordEquipos": "3-4-2",
+    "driver": 84,
+    "hierros": 84,
+    "juegoCorto": 80,
+    "putt": 80,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "palmer-1960s",
+    "nombre": "Arnold Palmer",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1960,
+    "majors": 7,
+    "majorsGanados": [
+      "Masters",
+      "US Open",
+      "The Open"
+    ],
+    "victorias": 95,
+    "mejorRankingMundial": null,
+    "recordEquipos": "22-8-2",
+    "driver": 88,
+    "hierros": 86,
+    "juegoCorto": 84,
+    "putt": 88,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "casper-1960s",
+    "nombre": "Billy Casper",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1960,
+    "majors": 3,
+    "majorsGanados": [
+      "US Open",
+      "Masters"
+    ],
+    "victorias": 68,
+    "mejorRankingMundial": null,
+    "recordEquipos": "20-10-7",
+    "driver": 78,
+    "hierros": 86,
+    "juegoCorto": 90,
+    "putt": 94,
+    "parejasHistoricas": [
+      "littler-1960s"
+    ]
+  },
+  {
+    "id": "littler-1960s",
+    "nombre": "Gene Littler",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1960,
+    "majors": 1,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 29,
+    "mejorRankingMundial": null,
+    "recordEquipos": "14-5-8",
+    "driver": 82,
+    "hierros": 88,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "casper-1960s"
+    ]
+  },
+  {
+    "id": "nicklaus-1970s",
+    "nombre": "Jack Nicklaus",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1970,
+    "majors": 18,
+    "majorsGanados": [
+      "Masters",
+      "US Open",
+      "The Open",
+      "PGA Championship"
+    ],
+    "victorias": 117,
+    "mejorRankingMundial": null,
+    "recordEquipos": "17-8-3",
+    "driver": 93,
+    "hierros": 95,
+    "juegoCorto": 86,
+    "putt": 92,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "trevino-1970s",
+    "nombre": "Lee Trevino",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1970,
+    "majors": 6,
+    "majorsGanados": [
+      "US Open",
+      "The Open",
+      "PGA Championship"
+    ],
+    "victorias": 92,
+    "mejorRankingMundial": null,
+    "recordEquipos": "17-7-6",
+    "driver": 82,
+    "hierros": 93,
+    "juegoCorto": 88,
+    "putt": 84,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "watson-1970s",
+    "nombre": "Tom Watson",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1970,
+    "majors": 8,
+    "majorsGanados": [
+      "The Open",
+      "Masters",
+      "US Open"
+    ],
+    "victorias": 70,
+    "mejorRankingMundial": null,
+    "recordEquipos": "10-4-1",
+    "driver": 86,
+    "hierros": 92,
+    "juegoCorto": 90,
+    "putt": 90,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "irwin-1970s",
+    "nombre": "Hale Irwin",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1970,
+    "majors": 3,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 20,
+    "mejorRankingMundial": null,
+    "recordEquipos": "13-5-2",
+    "driver": 78,
+    "hierros": 90,
+    "juegoCorto": 86,
+    "putt": 84,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "floyd-1980s",
+    "nombre": "Raymond Floyd",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1980,
+    "majors": 4,
+    "majorsGanados": [
+      "PGA Championship",
+      "Masters",
+      "US Open"
+    ],
+    "victorias": 65,
+    "mejorRankingMundial": null,
+    "recordEquipos": "12-16-3",
+    "driver": 82,
+    "hierros": 86,
+    "juegoCorto": 92,
+    "putt": 86,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "wadkins-1980s",
+    "nombre": "Lanny Wadkins",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1980,
+    "majors": 1,
+    "majorsGanados": [
+      "PGA Championship"
+    ],
+    "victorias": 21,
+    "mejorRankingMundial": null,
+    "recordEquipos": "20-11-3",
+    "driver": 82,
+    "hierros": 88,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": [
+      "nelson-1980s"
+    ]
+  },
+  {
+    "id": "nelson-1980s",
+    "nombre": "Larry Nelson",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1980,
+    "majors": 3,
+    "majorsGanados": [
+      "PGA Championship",
+      "US Open"
+    ],
+    "victorias": 10,
+    "mejorRankingMundial": null,
+    "recordEquipos": "9-3-1",
+    "driver": 78,
+    "hierros": 88,
+    "juegoCorto": 84,
+    "putt": 84,
+    "parejasHistoricas": [
+      "wadkins-1980s"
+    ]
+  },
+  {
+    "id": "kite-1980s",
+    "nombre": "Tom Kite",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1980,
+    "majors": 1,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 29,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "15-9-4",
+    "driver": 74,
+    "hierros": 88,
+    "juegoCorto": 90,
+    "putt": 84,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "strange-1980s",
+    "nombre": "Curtis Strange",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1980,
+    "majors": 2,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 28,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "6-12-2",
+    "driver": 78,
+    "hierros": 90,
+    "juegoCorto": 84,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "couples-1990s",
+    "nombre": "Fred Couples",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1990,
+    "majors": 1,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 64,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "7-9-4",
+    "driver": 90,
+    "hierros": 86,
+    "juegoCorto": 82,
+    "putt": 82,
+    "parejasHistoricas": [
+      "love-1990s"
+    ]
+  },
+  {
+    "id": "love-1990s",
+    "nombre": "Davis Love III",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1990,
+    "majors": 1,
+    "majorsGanados": [
+      "PGA Championship"
+    ],
+    "victorias": 36,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "9-12-5",
+    "driver": 92,
+    "hierros": 84,
+    "juegoCorto": 80,
+    "putt": 80,
+    "parejasHistoricas": [
+      "couples-1990s"
+    ]
+  },
+  {
+    "id": "stewart-1990s",
+    "nombre": "Payne Stewart",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1990,
+    "majors": 3,
+    "majorsGanados": [
+      "PGA Championship",
+      "US Open"
+    ],
+    "victorias": 24,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "8-9-2",
+    "driver": 78,
+    "hierros": 88,
+    "juegoCorto": 86,
+    "putt": 86,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "azinger-1990s",
+    "nombre": "Paul Azinger",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1990,
+    "majors": 1,
+    "majorsGanados": [
+      "PGA Championship"
+    ],
+    "victorias": 17,
+    "mejorRankingMundial": 4,
+    "recordEquipos": "5-7-3",
+    "driver": 76,
+    "hierros": 86,
+    "juegoCorto": 86,
+    "putt": 84,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "lehman-1990s",
+    "nombre": "Tom Lehman",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 1990,
+    "majors": 1,
+    "majorsGanados": [
+      "The Open"
+    ],
+    "victorias": 13,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "5-3-2",
+    "driver": 80,
+    "hierros": 90,
+    "juegoCorto": 82,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "tiger-2000s",
+    "nombre": "Tiger Woods",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2000,
+    "majors": 15,
+    "majorsGanados": [
+      "Masters",
+      "US Open",
+      "The Open",
+      "PGA Championship"
+    ],
+    "victorias": 110,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "14-21-3",
+    "driver": 94,
+    "hierros": 98,
+    "juegoCorto": 96,
+    "putt": 95,
+    "parejasHistoricas": [
+      "stricker-2000s"
+    ]
+  },
+  {
+    "id": "mickelson-2000s",
+    "nombre": "Phil Mickelson",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2000,
+    "majors": 6,
+    "majorsGanados": [
+      "Masters",
+      "PGA Championship",
+      "The Open"
+    ],
+    "victorias": 57,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "18-22-7",
+    "driver": 86,
+    "hierros": 88,
+    "juegoCorto": 98,
+    "putt": 86,
+    "parejasHistoricas": [
+      "bradley-2010s"
+    ]
+  },
+  {
+    "id": "furyk-2000s",
+    "nombre": "Jim Furyk",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2000,
+    "majors": 1,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 29,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "10-20-4",
+    "driver": 72,
+    "hierros": 90,
+    "juegoCorto": 86,
+    "putt": 86,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "stricker-2000s",
+    "nombre": "Steve Stricker",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2000,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 22,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "3-7-1",
+    "driver": 74,
+    "hierros": 86,
+    "juegoCorto": 90,
+    "putt": 94,
+    "parejasHistoricas": [
+      "tiger-2000s"
+    ]
+  },
+  {
+    "id": "zjohnson-2000s",
+    "nombre": "Zach Johnson",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2000,
+    "majors": 2,
+    "majorsGanados": [
+      "Masters",
+      "The Open"
+    ],
+    "victorias": 12,
+    "mejorRankingMundial": 7,
+    "recordEquipos": "6-8-3",
+    "driver": 70,
+    "hierros": 86,
+    "juegoCorto": 90,
+    "putt": 90,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "spieth-2010s",
+    "nombre": "Jordan Spieth",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 3,
+    "majorsGanados": [
+      "Masters",
+      "US Open",
+      "The Open"
+    ],
+    "victorias": 16,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "9-7-3",
+    "driver": 80,
+    "hierros": 88,
+    "juegoCorto": 94,
+    "putt": 94,
+    "parejasHistoricas": [
+      "reed-2010s",
+      "thomas-2010s"
+    ]
+  },
+  {
+    "id": "reed-2010s",
+    "nombre": "Patrick Reed",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "Masters"
+    ],
+    "victorias": 10,
+    "mejorRankingMundial": 7,
+    "recordEquipos": "7-3-2",
+    "driver": 80,
+    "hierros": 84,
+    "juegoCorto": 92,
+    "putt": 88,
+    "parejasHistoricas": [
+      "spieth-2010s"
+    ]
+  },
+  {
+    "id": "thomas-2010s",
+    "nombre": "Justin Thomas",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 2,
+    "majorsGanados": [
+      "PGA Championship"
+    ],
+    "victorias": 16,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "10-5-2",
+    "driver": 90,
+    "hierros": 94,
+    "juegoCorto": 86,
+    "putt": 84,
+    "parejasHistoricas": [
+      "spieth-2010s"
+    ]
+  },
+  {
+    "id": "koepka-2010s",
+    "nombre": "Brooks Koepka",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 5,
+    "majorsGanados": [
+      "US Open",
+      "PGA Championship"
+    ],
+    "victorias": 20,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "8-8-1",
+    "driver": 94,
+    "hierros": 92,
+    "juegoCorto": 80,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "djohnson-2010s",
+    "nombre": "Dustin Johnson",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 2,
+    "majorsGanados": [
+      "US Open",
+      "Masters"
+    ],
+    "victorias": 28,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "12-11-1",
+    "driver": 98,
+    "hierros": 90,
+    "juegoCorto": 76,
+    "putt": 80,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "bradley-2010s",
+    "nombre": "Keegan Bradley",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2010,
+    "majors": 1,
+    "majorsGanados": [
+      "PGA Championship"
+    ],
+    "victorias": 9,
+    "mejorRankingMundial": 10,
+    "recordEquipos": "4-3-0",
+    "driver": 86,
+    "hierros": 84,
+    "juegoCorto": 82,
+    "putt": 78,
+    "parejasHistoricas": [
+      "mickelson-2000s"
+    ]
+  },
+  {
+    "id": "scheffler-2020s",
+    "nombre": "Scottie Scheffler",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2020,
+    "majors": 4,
+    "majorsGanados": [
+      "Masters",
+      "PGA Championship",
+      "The Open"
+    ],
+    "victorias": 20,
+    "mejorRankingMundial": 1,
+    "recordEquipos": "3-7-4",
+    "driver": 92,
+    "hierros": 98,
+    "juegoCorto": 90,
+    "putt": 82,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "schauffele-2020s",
+    "nombre": "Xander Schauffele",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2020,
+    "majors": 2,
+    "majorsGanados": [
+      "PGA Championship",
+      "The Open"
+    ],
+    "victorias": 12,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "6-5-1",
+    "driver": 88,
+    "hierros": 92,
+    "juegoCorto": 86,
+    "putt": 86,
+    "parejasHistoricas": [
+      "cantlay-2020s"
+    ]
+  },
+  {
+    "id": "cantlay-2020s",
+    "nombre": "Patrick Cantlay",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2020,
+    "majors": 0,
+    "majorsGanados": [],
+    "victorias": 9,
+    "mejorRankingMundial": 3,
+    "recordEquipos": "6-4-2",
+    "driver": 84,
+    "hierros": 90,
+    "juegoCorto": 86,
+    "putt": 92,
+    "parejasHistoricas": [
+      "schauffele-2020s"
+    ]
+  },
+  {
+    "id": "morikawa-2020s",
+    "nombre": "Collin Morikawa",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2020,
+    "majors": 2,
+    "majorsGanados": [
+      "PGA Championship",
+      "The Open"
+    ],
+    "victorias": 8,
+    "mejorRankingMundial": 2,
+    "recordEquipos": "5-3-2",
+    "driver": 80,
+    "hierros": 96,
+    "juegoCorto": 84,
+    "putt": 80,
+    "parejasHistoricas": []
+  },
+  {
+    "id": "dechambeau-2020s",
+    "nombre": "Bryson DeChambeau",
+    "bando": "USA",
+    "pais": "EE. UU.",
+    "decada": 2020,
+    "majors": 2,
+    "majorsGanados": [
+      "US Open"
+    ],
+    "victorias": 13,
+    "mejorRankingMundial": 4,
+    "recordEquipos": "4-5-2",
+    "driver": 99,
+    "hierros": 86,
+    "juegoCorto": 80,
+    "putt": 80,
+    "parejasHistoricas": []
+  }
+]
