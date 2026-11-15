@@ -85,7 +85,7 @@ export function ResultScreen() {
         </Typography>
       </Box>
 
-      <Stack direction="row" spacing={1.25}>
+      <Stack direction={{ xs: 'column', sm: 'row' }} spacing={1.25}>
         <Card sx={{ flex: 1, p: 1.5 }}>
           <Stack direction="row" spacing={0.5} alignItems="center">
             <EmojiEventsRounded fontSize="small" color="secondary" />
@@ -141,14 +141,12 @@ export function ResultScreen() {
         <Button variant="contained" size="large" startIcon={<IosShareRounded />} disabled={busy} onClick={() => exportCard('share')}>
           Compartir tarjeta
         </Button>
-        <Stack direction="row" spacing={1}>
-          <Button variant="outlined" startIcon={<DownloadRounded />} disabled={busy} onClick={() => exportCard('download')} sx={{ flex: 1 }}>
-            Descargar
-          </Button>
-          <Button variant="outlined" startIcon={<ReplayRounded />} onClick={() => dispatch({ type: 'RESET' })} sx={{ flex: 1 }}>
-            Jugar otra vez
-          </Button>
-        </Stack>
+        <Button variant="outlined" startIcon={<DownloadRounded />} disabled={busy} onClick={() => exportCard('download')}>
+          Descargar imagen
+        </Button>
+        <Button variant="text" startIcon={<ReplayRounded />} onClick={() => dispatch({ type: 'RESET' })}>
+          Jugar otra vez
+        </Button>
       </Stack>
 
       <Accordion disableGutters elevation={0} sx={{ border: 1, borderColor: 'divider', borderRadius: '20px !important', '&:before': { display: 'none' } }}>

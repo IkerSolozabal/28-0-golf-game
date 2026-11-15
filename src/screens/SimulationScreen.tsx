@@ -23,13 +23,13 @@ function MatchRow({ m }: { m: MatchResult }) {
   const label = m.points === 1 ? `Gana ${m.margin}` : m.points === 0 ? `Pierde ${m.margin}` : 'Empate';
   return (
     <Stack direction="row" alignItems="center" spacing={1} sx={{ py: 0.5 }}>
-      <Typography variant="body2" sx={{ flex: 1, minWidth: 0 }} noWrap fontWeight={m.points === 1 ? 700 : 400}>
+      <Typography variant="body2" sx={{ flex: 1, minWidth: 0, lineHeight: 1.3 }} fontWeight={m.points === 1 ? 700 : 400}>
         {m.user.map(surname).join(' + ')}
       </Typography>
       <Typography variant="caption" sx={{ color, fontWeight: 700, minWidth: 74, textAlign: 'center' }}>
         {label}
       </Typography>
-      <Typography variant="body2" sx={{ flex: 1, minWidth: 0, textAlign: 'right' }} noWrap color="text.secondary" fontWeight={m.points === 0 ? 700 : 400}>
+      <Typography variant="body2" sx={{ flex: 1, minWidth: 0, textAlign: 'right', lineHeight: 1.3 }} color="text.secondary" fontWeight={m.points === 0 ? 700 : 400}>
         {m.rival.map(surname).join(' + ')}
       </Typography>
     </Stack>

@@ -172,16 +172,9 @@ export function LineupScreen() {
                   )}
                 </Stack>
               </Stack>
-              <Stack direction="row" spacing={1} alignItems="center">
+              <Stack spacing={0.75}>
                 {players.map((p, slot) => (
-                  <Box key={slot} sx={{ display: 'contents' }}>
-                    {slot > 0 && (
-                      <Typography color="text.secondary" fontWeight={700}>
-                        +
-                      </Typography>
-                    )}
-                    <SlotButton player={p} onClick={() => setEditing({ si: tab, mi, slot })} />
-                  </Box>
+                  <SlotButton key={slot} player={p} onClick={() => setEditing({ si: tab, mi, slot })} />
                 ))}
               </Stack>
             </Card>
