@@ -8,7 +8,7 @@ import { toBlob } from 'html-to-image';
  * @throws If the browser cannot render the node.
  */
 export async function nodeToPngBlob(node: HTMLElement): Promise<Blob> {
-  const blob = await toBlob(node, { pixelRatio: 3, cacheBust: true });
+  const blob = await toBlob(node, { pixelRatio: 3, cacheBust: true, style: { borderRadius: '0', transform: 'none', margin: '0' } });
   if (!blob) throw new Error('No se pudo generar la imagen');
   return blob;
 }
