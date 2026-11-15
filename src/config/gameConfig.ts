@@ -54,7 +54,17 @@ export interface EngineConfig {
     /** Fixed probability that a match is halved (PDF: ~10 %). */
     drawProbability: number;
   };
-  rival: Record<Difficulty, { label: string; poolStart: number; poolSizeFactor: number }>;
+  /**
+   * Rival generation per difficulty.
+   * - `relative`: random team whose mean rating ≈ user mean + `offset`
+   *   (keeps the game balanced whatever side or draft luck).
+   * - `top`: the best all-time team of the other side.
+   */
+  rival: Record<Difficulty, { label: string; strategy: 'relative' | 'top'; offset: number }>;
+  autoLineup: {
+    /** Rating points subtracted per previous pair session (rotates rests when close). */
+    fatiguePenalty: number;
+  };
   roulette: {
     /** Probability that a spin is "década + major" instead of "década + país". */
     majorSpinProbability: Record<Side, number>;
@@ -84,12 +94,12 @@ export const ENGINE_CONFIG: EngineConfig = {
   },
   match: { k: 25, drawProbability: 0.1 },
   rival: {
-    // Rival is drawn at random from the other side's rating-sorted list:
-    // ranks [poolStart, poolStart + teamSize·poolSizeFactor).
-    easy: { label: 'Fácil', poolStart: 0.5, poolSizeFactor: 2 },
-    normal: { label: 'Normal', poolStart: 0, poolSizeFactor: 2 },
-    hard: { label: 'Leyenda', poolStart: 0, poolSizeFactor: 1 },
+    easy: { label: 'Fácil', strategy: 'relative', offset: -6 },
+    normal: { label: 'Normal', strategy: 'relative', offset: -1 },
+    hard: { label: 'Leyenda', strategy: 'top', offset: 0 },
   },
+
+  autoLineup: { fatiguePenalty: 0.75 },
   roulette: {
     majorSpinProbability: { EU: 0.35, USA: 0.6 },
     segments: 8,
