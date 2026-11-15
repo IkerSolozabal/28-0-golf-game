@@ -51,7 +51,7 @@ En las sesiones de parejas descansan 2 de 6 (o 4 de 12) jugadores. El botón **�
 
 ## Instalación y desarrollo
 
-Requisitos: **Node.js ≥ 20** y npm.
+Requisitos: **Node.js ≥ 24** y npm. Recomendado: **Node 26 LTS** (el que usa CI, fijado en [`.nvmrc`](.nvmrc)).
 
 ```bash
 npm install
