@@ -61,7 +61,7 @@ npm install
 npm run dev
 ```
 
-Abre `http://localhost:5173/28-0-golf-game/` (el sub-path coincide con el de GitHub Pages).
+Abre `http://localhost:5173/`.
 
 | Script | Qué hace |
 |---|---|
@@ -70,17 +70,22 @@ Abre `http://localhost:5173/28-0-golf-game/` (el sub-path coincide con el de Git
 | `npm run build` | Type-check (`tsc -b`) + build de producción en `dist/` |
 | `npm run preview` | Sirve el build de `dist/` |
 
-Para servir en la raíz (dominio propio, otro hosting):
+Para servir bajo un sub-path (por ejemplo, `https://<usuario>.github.io/28-0-golf-game/` sin dominio propio):
 
 ```bash
-VITE_BASE=/ npm run build
+VITE_BASE=/28-0-golf-game/ npm run build
 ```
 
 ## Despliegue en GitHub Pages
 
-El workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) se ejecuta en cada *push* a `main`: instala, pasa los tests, construye con `VITE_BASE=/<nombre-del-repo>/`, copia `index.html` a `404.html` (fallback SPA) y publica `dist/` con `actions/deploy-pages`.
+El workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) se ejecuta en cada *push* a `main`: instala, pasa los tests, construye (base `/`), copia `index.html` a `404.html` (fallback SPA) y publica `dist/` con `actions/deploy-pages`.
 
-Configuración única en GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. La web queda en `https://<usuario>.github.io/28-0-golf-game/`.
+Configuración única en GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**. La web se publica en el dominio propio **https://golf.sogra.es**:
+
+- DNS: registro `CNAME golf → ikersolozabal.github.io`.
+- [`public/CNAME`](public/CNAME) contiene `golf.sogra.es` y Vite lo copia a `dist/`.
+- En **Settings → Pages → Custom domain** figura `golf.sogra.es` con **Enforce HTTPS** activado.
+- La antigua URL `https://ikersolozabal.github.io/28-0-golf-game/` redirige al dominio propio.
 
 ## Ajustar el juego sin tocar el motor
 

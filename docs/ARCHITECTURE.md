@@ -90,7 +90,7 @@ Usar *streams* independientes hace que la tirada *n* sea siempre la misma aunque
 - **Motor sin React**: se puede ejecutar en Node (tests, calibración masiva, futuro servidor del reto diario) sin cambios.
 - **Inyección de `resolve(id)`** en `simulateCup`: el motor no depende del catálogo concreto.
 - **Feature flags** en `gameConfig.ts` (`GAME_MODES.full.enabled`, `GOLFIQ_ENABLED`): el modo completo y GolfIQ ya funcionan con el mismo código, solo están ocultos hasta la Fase 2.
-- **`base` configurable** (`VITE_BASE`) para servir bajo `/<repo>/` en Pages o en la raíz en otro hosting.
+- **`base` configurable** (`VITE_BASE`) (por defecto `/`, la raíz del dominio propio `golf.sogra.es`; se puede servir bajo un sub-path si hace falta).
 
 ## Evolución prevista
 
